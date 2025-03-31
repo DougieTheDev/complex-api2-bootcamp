@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 30px;
+    width: 80%;
+    max-width: 600px;
+    margin: 5rem 40rem;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+button {
+    color: black;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+.joke-container {
+    font-size: 1.2rem;
+    color: #333;
+    padding: 10px;
+}
+
+.image-container img {
+    max-width: 100%;
+}
